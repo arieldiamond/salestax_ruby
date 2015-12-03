@@ -1,4 +1,3 @@
-# Ariel Diamond ThoughtWorks Application
 # Sales Tax Problem in Ruby
 
 # I created two objects: Products and Receipts. Products contain all of the information for individual products, and Receipts calls on that information. 
